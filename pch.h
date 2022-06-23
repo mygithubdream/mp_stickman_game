@@ -13,10 +13,10 @@
 #endif //PCH_H
 
 
-//¶¨Òåºê
+//å®šä¹‰å®
 #ifdef IMPORT_DLL
 #else
-#define IMPORT_DLL extern "C" _declspec(dllimport) //Ö¸µÄÊÇÔÊĞí½«Æä¸øÍâ²¿µ÷ÓÃ
+#define IMPORT_DLL extern "C" _declspec(dllimport)
 #endif
 
 IMPORT_DLL void key_right();
