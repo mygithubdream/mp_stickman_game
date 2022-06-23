@@ -17,4 +17,6 @@ pip install mediapipe
 
 pip install pyautogui
 
+pch.cpp and pch.h are the source code for "py_c_call.dll".
+
 The Stickman Fighter game used is the link https://stickmanfighter.online/ 
