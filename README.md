@@ -16,3 +16,5 @@ python 3.9
 pip install mediapipe
 
 pip install pyautogui
+
+The Stickman Fighter game used is the link https://stickmanfighter.online/ 
